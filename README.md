@@ -1,16 +1,23 @@
-### Hi there 👋
+# Joao.Gabriel
+- 📚 Discente no bacharelado de dupla formação de ciência e tecnologia com intenção de cursar Ciência da Computação pós BI.
+- 📩 Contato por e-mail: Souza27711@gmail.com
+- 💻 Iniciante na área, mas com muita fome de conhecimento. 
 
-<!--
-**gabriel-joao/gabriel-joao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/gabriel-joao">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabriel-joao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini2&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div style="display: inline_block"><br>
+  <img align="right" height="150" width="150" src="https://i.picasion.com/pic92/e8c4995928a87a346e857de425db7d53.gif">
+</div>
+
+##
+
+<div>
+<a href="https://www.instagram.com/eae.jg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-souza-santos-b0289a224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
