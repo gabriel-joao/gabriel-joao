@@ -3,12 +3,6 @@
 - 📩 Contato por e-mail: Souza27711@gmail.com
 - 💻 Iniciante na área, mas com muita fome de conhecimento. 
 
-<div>
-  <a href="https://github.com/gabriel-joao">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabriel-joao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini2&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
 
 
 <div style="display: inline_block"><br>
