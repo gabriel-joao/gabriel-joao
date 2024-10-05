@@ -1,6 +1,7 @@
 # Joao Gabriel
 - 📚 Discente no bacharelado de dupla formação de ciência e tecnologia com intenção de cursar Ciência da Computação pós BI.
 - 📩 Contato por e-mail: Souza27711@gmail.com
+- 💻 Estagiário TI 
 - 💻 Iniciante na área, mas com muita fome de conhecimento. 
 
 
