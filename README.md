@@ -1,8 +1,10 @@
 # Joao Gabriel
 - 📚 Discente no bacharelado de dupla formação de ciência e tecnologia com intenção de cursar Ciência da Computação pós BI.
 - 📩 Contato por e-mail: Souza27711@gmail.com
-- 💻 Desenvolvedor Back-End e Analista de Dados 
-- "No campo da tecnologia, a simplificação é sempre um grande avanço." 
+- 💻 Desenvolvedor Back-End e Analista de Dados.
+
+  
+ "No campo da tecnologia, a simplificação é sempre um grande avanço." 
 
 
 
