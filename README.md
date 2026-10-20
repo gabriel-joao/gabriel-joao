@@ -1,8 +1,7 @@
 # Joao Gabriel
 - 📚 Discente no bacharelado de dupla formação de ciência e tecnologia com intenção de cursar Ciência da Computação pós BI.
+- 💻 Desenvolvedor Full Stack, com experiência em Back-End, APIs, integração de sistemas e análise de dados.
 - 📩 Contato por e-mail: Souza27711@gmail.com
-- 💻 Desenvolvedor Back-End e Analista de Dados.
-
   
  "No campo da tecnologia, a simplificação é sempre um grande avanço." 
 
